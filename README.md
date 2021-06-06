@@ -1,2 +1,2 @@
 # KEYFU
-## ⌨️ Hotkey Macro Martial Arts ⌨️
+## ⌨️ USB HID Macro Martial Arts ⌨️
